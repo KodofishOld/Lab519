@@ -1,0 +1,16 @@
+.info-sectiones h1{
+    color: white;
+}
+
+table{
+    color: white;
+}
+
+@media screen and (max-width:800px) {
+    .contact-info{
+        flex-direction: column;
+    }
+    .cardes{
+        display: none;
+    }
+}
